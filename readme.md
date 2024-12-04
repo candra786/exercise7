@@ -52,9 +52,10 @@ Critical Sections:
 Critical sections effectively prevent resource contention, even with multiple tasks accessing the same resource.
 Task Synchronization:
 Proper synchronization is essential for system stability in multitasking environments.
+
 Demonstration Video
 Watch the demonstration video here.
-https://drive.google.com/file/d/1qILxam1RzgKXJZZGh8EzzFH0kZOmbXci/view?usp=sharing
+https://drive.google.com/file/d/1XESlIPPWwuDABhqifjarNeKevgn9QPXw/view?usp=sharing
 
 References
 Book: Jim Cooling - Real-time Operating Systems Book 2: The Practice.
